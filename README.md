@@ -19,6 +19,7 @@
 ![js](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![js](https://img.shields.io/badge/-Svelte-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 ![js](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![js](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
