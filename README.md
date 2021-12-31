@@ -6,7 +6,7 @@
 ### MOST USED 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livemehere)](https://github.com/anuraghazra/github-readme-stats)
 
-### [velog](https://velog.io/@rhdxoals)
+### [Blog](https://nyagm.tistory.com/)
 
 ### STACKS
 
