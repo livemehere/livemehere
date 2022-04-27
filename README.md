@@ -1,6 +1,6 @@
-## FE Developer (Full Stack Engineer) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## 공태민, TaeMin Kong <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-호기심을 집어삼키는 개발자
+> FE Developer (Full Stack Engineer)
 
 📚 [BLOG](https://nyagm.tistory.com/)
 
