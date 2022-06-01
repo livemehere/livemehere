@@ -1,4 +1,4 @@
-## 공태민, TaeMin Kong <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## 공태민, TaeMin Kong <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">
 
 > FE Developer (Full Stack Engineer)
 
