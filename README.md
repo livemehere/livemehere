@@ -1,6 +1,6 @@
 ## 공태민, TaeMin Kong 👋
 
-> FE Developer (Full Stack Engineer)
+> FE Developer
 
 📚 [BLOG](https://nyagm.tistory.com/)
 
