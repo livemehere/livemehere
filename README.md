@@ -2,19 +2,11 @@
 
 > FE | Node Developer
 
-📚 [BLOG](https://nyagm.tistory.com/)
+## 🔥 Maintainer of
 
-## 🔥 Contributing
-
-- [usestomp-hook](https://www.npmjs.com/package/usestomp-hook)
-
-## ⚡ Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
-![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+* [**usestomp-hook**](https://www.npmjs.com/package/usestomp-hook): Hooks for using StompJS in React.
+* [**react-flyable-component**](https://www.npmjs.com/package/react-flyable-component): React Component that makes children draggable and fixable on screen.
+* [**babel-plugin-jsx-src-basepath**](https://github.com/livemehere/babel-plugin-jsx-src-basepath): Babel-plugin bundle with replacing src attribute in jsx except start with http or https.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livemehere)](https://github.com/livemehere/github-readme-stats) 
