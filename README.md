@@ -1,6 +1,6 @@
 ## 공태민, TaeMin Kong 👋
 
-> FE | Node Developer
+> FE | Web Engineer
 
 ## 🔥 Maintainer of
 
