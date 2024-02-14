@@ -4,7 +4,6 @@
 
 ## 🔥 Maintainer of
 
-* [**usestomp-hook**](https://www.npmjs.com/package/usestomp-hook): Hooks for using StompJS in React.
 * [**babel-plugin-jsx-src-basepath**](https://www.npmjs.com/package/babel-plugin-jsx-src-basepath): Babel-plugin bundle with replacing src attribute in jsx except start with http or https.
 * [**async-modal-react**](https://www.npmjs.com/package/async-modal-react): Async Modal for React. 
 * [**simple-tooltip-react**](https://www.npmjs.com/package/simple-tooltip-react?activeTab=readme) : Tooltip Component for React.
