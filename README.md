@@ -1,6 +1,6 @@
-## 공태민, TaeMin Kong 👋
+## TaeMin Kong 👋
 
-> FE | Web Engineer
+> Web Engineer
 
 ## 🔥 Maintainer of
 
