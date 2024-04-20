@@ -1,6 +1,8 @@
 ## TaeMin Kong 👋
 
-> Web Engineer
+> Frontend Developer
+
+Typescript, C#, NodeJS, .Net
 
 ## Apps
 
