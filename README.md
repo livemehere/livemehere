@@ -2,7 +2,7 @@
 
 > Frontend Developer
 
-Typescript, C#, NodeJS, .Net
+**Typescript, C#, NodeJS, .Net**
 
 ## Apps
 
