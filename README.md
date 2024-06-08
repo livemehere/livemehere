@@ -12,7 +12,7 @@
 | [Visualize Math](https://livemehere.github.io/visualize-math/)                    | Web App to visualizing 2 dimension  |
 | [Pocket Drawing](https://livemehere.github.io/pocket-drawing/)                    | Web App for Drawing                 |
 
-## 🔥 Maintained Libraries
+## 🔥 Maintainer of
 
 | Name                                                                                                               | Description                                                           |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
