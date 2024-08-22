@@ -16,6 +16,7 @@
 
 | Name                                                                                                               | Description                                                           |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [useStomp](https://github.com/livemehere/usestomp)                                                                 | StompJs for react
 | [easy-react-canvas](https://www.npmjs.com/package/easy-react-canvas?activeTab=readme)                              | Declarative way to use canvas in react component                      |
 | [react-help-layer](https://www.npmjs.com/package/react-help-layer)                                                 | Solution for web tutorial or help menu                                |
 | [tiny-animate-js](https://github.com/livemehere/tiny-animate-js)                                                   | Gsap core features in one script                                      |
