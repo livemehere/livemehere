@@ -27,6 +27,7 @@
 | [viewport-render-list](https://livemehere.github.io/livemehere-dev-packs/docs/viewport-render-list/what-is-this)   | Virtual window on viewport                                            |    
 | [animate-number-react](https://livemehere.github.io/livemehere-dev-packs/docs/animate-number-react/what-is-this)   | Sliding animation component for rendering number                      |
 | [@livemehere/api-generator](https://www.npmjs.com/package/@livemehere/api-generator)                               | Api code generator                                                    |
+| [handle-files-react](https://github.com/livemehere/handle-files-react)                                             | React component and hook for handling input "type=file"               |
 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livemehere)](https://github.com/livemehere/github-readme-stats)
