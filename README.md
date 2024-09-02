@@ -22,8 +22,8 @@
 | [react-universal-scroll](https://www.npmjs.com/package/react-universal-scroll)                                     | React component to create custom scroll                               |
 | [custom-slider-react](https://www.npmjs.com/package/custom-slider-react)                                           | Slider compoent for React                                             |
 | [handle-files-react](https://www.npmjs.com/package/handle-files-react)                                             | React component and hook for handling input "type=file"               |
-| [viewport-render-list](https://livemehere.github.io/livemehere-dev-packs/docs/viewport-render-list/what-is-this)   | Virtual window on viewport                                            |    
-| [animate-number-react](https://livemehere.github.io/livemehere-dev-packs/docs/animate-number-react/what-is-this)   | Sliding animation component for rendering number                      |
+| [viewport-render-list](https://www.npmjs.com/package/viewport-render-list)                                         | Virtual window on viewport                                            |    
+| [animate-number-react](https://www.npmjs.com/package/animate-number-react)                                         | Sliding animation component for rendering number                      |
 | [vite-plugin-change-host](https://www.npmjs.com/package/vite-plugin-change-host)                                   | A vite plugin to change the host of the dev server                    |
 | [tiny-animate-js](https://github.com/livemehere/tiny-animate-js)                                                   | Gsap core features in one script                                      |
 | [@livemehere/api-generator](https://www.npmjs.com/package/@livemehere/api-generator)                               | Api code generator                                                    |
