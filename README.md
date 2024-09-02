@@ -29,7 +29,7 @@
 | [@livemehere/api-generator](https://www.npmjs.com/package/@livemehere/api-generator)                               | Api code generator                                                    |
 | [handle-files-react](https://www.npmjs.com/package/handle-files-react)                                             | React component and hook for handling input "type=file"               |
 | [react-universal-scroll](https://www.npmjs.com/package/react-universal-scroll)                                     | React component to create custom scroll                               |
-
+| [custom-slider-react](https://www.npmjs.com/package/custom-slider-react)                                           | Slider compoent for React                                             |
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livemehere)](https://github.com/livemehere/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livemehere&layout=compact)](https://github.com/livemehere/github-readme-stats) 
