@@ -31,7 +31,6 @@
 | [easy-react-canvas](https://www.npmjs.com/package/easy-react-canvas?activeTab=readme)                              | Declarative way to use canvas in react component                      |
 | [react-help-layer](https://www.npmjs.com/package/react-help-layer)                                                 | Solution for web tutorial or help menu                                |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=livemehere)](https://github.com/livemehere/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livemehere&layout=compact)](https://github.com/livemehere/github-readme-stats) 
 
  
