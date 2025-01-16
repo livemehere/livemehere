@@ -9,7 +9,7 @@
 | App                                                                               | Description                         |
 |-----------------------------------------------------------------------------------|-------------------------------------|
 | [CraftyBox(Mac,Windows)](https://github.com/livemehere/crafty-box-official/releases) | Usefull tools for you |
-| [RecordEditor(Mac,Windows)](https://github.com/livemehere/record-editor/releases) | Desktop App for recording & editing |
+| [RecordEditor(Mac,Windows)](https://github.com/livemehere/record-editor/releases) | Screen record & crop |
 | [Visualize Math](https://livemehere.github.io/visualize-math/)                    | Web App to visualizing 2 dimension  |
 | [Pocket Drawing](https://livemehere.github.io/pocket-drawing/)                    | Web App for Drawing                 |
 
