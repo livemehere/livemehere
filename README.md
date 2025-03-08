@@ -2,7 +2,7 @@
 
 > Frontend Developer
 
-**Typescript, NodeJS**
+**Javascript**
 
 ## Apps 
 
