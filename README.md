@@ -1,8 +1,6 @@
 ## TaeMin Kong 👋
 
-> Frontend Developer
-
-**Javascript**
+javascript, c++, c#, object-c++
 
 ## Apps 
 
