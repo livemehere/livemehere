@@ -1,6 +1,6 @@
 ## TaeMin Kong 👋
 
-javascript, c++, c#, object-c++
+javascript, c++
 
 ## Apps 
 
