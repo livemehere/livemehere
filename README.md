@@ -1,7 +1,5 @@
 ## TaeMin Kong 👋
 
-javascript, c++
-
 ## Apps 
 
 | App                                                                               | Description                         |
