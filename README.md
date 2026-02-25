@@ -23,7 +23,3 @@
 | [vite-plugin-change-host](https://www.npmjs.com/package/vite-plugin-change-host)                                   | A vite plugin to change the host of the dev server                    |
 | [tiny-animate-js](https://github.com/livemehere/tiny-animate-js)                                                   | Gsap core features in one script                                      |
 | [babel-plugin-jsx-src-basepath](https://www.npmjs.com/package/babel-plugin-jsx-src-basepath)                       | Replace src attribute in jsx except start with http or https          |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livemehere&layout=compact)](https://github.com/livemehere/github-readme-stats) 
-
- 
