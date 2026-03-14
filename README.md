@@ -9,6 +9,7 @@
 | [Visualize Math](https://livemehere.github.io/visualize-math/)                    | Web App to visualizing 2 dimension  |
 | [Pocket Drawing](https://livemehere.github.io/pocket-drawing/)                    | Web App for Drawing                 |
 | [QuickColorPicker](https://github.com/livemehere/QuickColorPicker/releases)                    | Color Picker util App for MacOS                |
+| [CopilotMonitor](https://github.com/livemehere/CopilotMonitor/releases)                    | Github Copilot Usage Monitor App for MacOS                |
 
 
 
