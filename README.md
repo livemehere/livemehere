@@ -10,6 +10,7 @@
 | [Pocket Drawing](https://livemehere.github.io/pocket-drawing/)                    | Web App for Drawing                 |
 | [QuickColorPicker](https://github.com/livemehere/QuickColorPicker/releases)                    | Color Picker util App for MacOS                |
 | [CopilotMonitor](https://github.com/livemehere/CopilotMonitor/releases)                    | Github Copilot Usage Monitor App for MacOS                |
+| [Mind Canvas](https://livemehere.github.io/mind-canvas/)                    | Canvas for visualize your mind for presentation                |
 
 
 
